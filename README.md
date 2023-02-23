@@ -2,5 +2,7 @@
 repository for the second lesson
 
 steps:
+
 1 - create the account - skipped, I already have
+
 2 - create new project for the homework - done
