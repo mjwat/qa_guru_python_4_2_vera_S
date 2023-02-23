@@ -1,5 +1,5 @@
 # qa_guru_python_4_2_vera_S
-repository for the second lesson
+repository for the second lesson.
 
 steps:
 
@@ -11,4 +11,4 @@ steps:
 
 4 - set browser size by fixture - done
 
-5 - added negative test
+5 - added negative test - done
